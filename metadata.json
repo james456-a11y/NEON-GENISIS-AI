@@ -1,0 +1,9 @@
+{
+  "name": "Copy of NeonGenesis AI",
+  "description": "A high-tech, neon-styled AI application powered by Gemini. Features real-time voice, advanced image/video generation, search grounding, and deep reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
